@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="32%" r="70%">
+      <stop offset="0" stop-color="#2ab8cc" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#2ab8cc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0c1219"/>
+  <rect width="64" height="64" rx="12" fill="url(#glow)"/>
+  <polyline points="16,26 32,14 48,26" fill="none" stroke="#7fe3f0" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="16,38 32,26 48,38" fill="none" stroke="#2ab8cc" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="16,50 32,38 48,50" fill="none" stroke="#1a6f7d" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
